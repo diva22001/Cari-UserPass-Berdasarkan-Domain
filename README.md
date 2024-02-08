@@ -16,7 +16,7 @@ Script Python ini dirancang untuk mencari dan menyusun daftar kombinasi username
    - Buka terminal atau command prompt.
    - Masukkan path folder utama tempat Anda ingin mencari.
    - Masukkan domain yang ingin Anda cari kombinasi user dan password (contoh: "facebook.com").
-   - Jalankan script dengan perintah `python script.py`.
+   - Jalankan script dengan perintah `UserPassDariDomain.py`.
 
 4. **Hasil:**
    - Script akan mencari dan menyimpan kombinasi username dan password yang valid dalam satu file.
