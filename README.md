@@ -1,0 +1,1 @@
+Script ini dapat menyimpan username dan password dari Logs yang memiliki folder yang memiliki file Passwords.txt dengan format URL Username dan Password lalu menyimpannya dengan format Username:Password
