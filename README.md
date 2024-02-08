@@ -12,13 +12,17 @@ Script Python ini dirancang untuk mencari dan menyusun daftar kombinasi username
 2. **Unduh Kode:**
    - Clone repositori ini atau unduh kode script.
 
-3. **Jalankan Script:**
+3. **Install Modul yang Diperlukan:**
+   - Buka terminal atau command prompt.
+   - Jalankan perintah `pip install tqdm` untuk menginstal modul `tqdm`.
+
+4. **Jalankan Script:**
    - Buka terminal atau command prompt.
    - Masukkan path folder utama tempat Anda ingin mencari.
    - Masukkan domain yang ingin Anda cari kombinasi user dan password (contoh: "facebook.com").
-   - Jalankan script dengan perintah `UserPassDariDomain.py`.
+   - Jalankan script dengan perintah `python UserPassDariDomain.py`.
 
-4. **Hasil:**
+5. **Hasil:**
    - Script akan mencari dan menyimpan kombinasi username dan password yang valid dalam satu file.
    - Hasilnya dapat ditemukan dalam file output dengan format nama file: `{domain}_{jumlah_kombinasi}x.txt`.
 
@@ -26,3 +30,4 @@ Script Python ini dirancang untuk mencari dan menyusun daftar kombinasi username
 
 - Skrip ini membantu mengorganisir dan membersihkan informasi dalam file "passwords.txt" untuk memudahkan analisis.
 - Duplikat dihilangkan, dan hanya kombinasi valid yang disimpan.
+
